@@ -20,9 +20,10 @@ public class Lec6HashMap {
 		//System.out.println(CapitalOfCountry.get("NYC"));
 		// to delete
 		CapitalOfCountry.remove("PO");
-		//System.out.println(CapitalOfCountry.remove("PO"));
+		System.out.println(CapitalOfCountry.remove("PO"));
 		//System.out.println(CapitalOfCountry);
 		
+		//CapitalOfCountry.keySet("")
 		
 		
 		// 
@@ -38,7 +39,7 @@ public class Lec6HashMap {
 		NameofStudentsAndId.size();
 		//System.out.println(NameofStudentsAndId.size());
 		
-		for (int p: NameofStudentsAndId.keySet()) {
+		/*for (int p: NameofStudentsAndId.keySet()) {
 			System.out.println(p);
 		}
 		
@@ -50,7 +51,7 @@ public class Lec6HashMap {
 			
 			
 			
-		}
+		}*/
 		
 		
 		
